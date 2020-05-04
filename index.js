@@ -1,1 +1,3 @@
-// write your code below!
+function Seasonalgreetings(){
+  return "Happy Holidays"
+}// write your code below!
